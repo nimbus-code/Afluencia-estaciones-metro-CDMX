@@ -6,9 +6,9 @@
 
 ## Imagenes
 
-![Mapa dinámico de las líneas del metro.](/image/mapa_dinamico_screen.png "Mapa dinámico del metro")
+![Mapa dinámico de las líneas del metro.](/images/mapa_dinamico_screen.png "Mapa dinámico del metro")
 
-![Gráfica. Afluencia de personas en el metro.](/image/top10_estaciones.png "Top 10 estaciones más usadas")
+![Gráfica. Afluencia de personas en el metro.](/images/top10_estaciones.png "Top 10 estaciones más usadas")
 
 ## Links
 
